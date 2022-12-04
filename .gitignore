@@ -135,3 +135,5 @@ media/
 test_data
 
 models
+output
+flagged
